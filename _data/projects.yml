@@ -2,11 +2,22 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # MSc Internship
-- project: Metabolism of the Freyarchaea (MSc Internship, Uppsala University)
+- project: Metabolism of the Freyarchaea
+  role: MSc Internship, Uppsala University
   duration: January 2018 &mdash; Present
-  # url: "#"
-  description: In progress untill end of July.
+  url: http://www.ettemalab.org/fabian-van-beveren/
+  description: >
+    Supervisors: Laura Eme, Jonathan Lombard & Thijs J.G. Ettema
+    In progress untill end of July.
   
 # MSc Thesis
-- project: The plant pathogen Verticillium longisporum is a stable interspecies hybrid that evolved by rearrangements of its parental genomes. (MSc Thesis, Wageningen University)
+- project: Genome evolution of the hyrid fungus *V. longisporum*
+  role: MSc Thesis, Wageningen University
   duration: February &mdash; August 2017
+  description: Supervisors: Jasper R.L. Depotter & Michael F. Seidl
+  
+#BSc Internship
+- project: Experimental evolution during nutrient depreviation in *E. coli*
+  role: BSc Thesis, Leiden University
+  duration: March &mdash; July 2014
+  description: Supervisor: Daniel E. Rozen
