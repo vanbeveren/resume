@@ -1,12 +1,8 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Programming
+- skill: Programming
+  description: Experience with R and R packages such as dplyr, ggplot2, ggbio and rcircos. Some experience with (bio)python and the ete3 library.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Bioinformatics
+- skill: Bioinformatics software
+  description: General knowledge of the command line, including awk and sed. Experience with bioinformatics software for genome alignment, multiple sequence alignments and tree building software (i.e., BWA, MAFFT, IQ-TREE, MrBayes among others).
