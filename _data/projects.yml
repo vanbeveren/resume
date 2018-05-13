@@ -5,7 +5,7 @@
 - project: Metabolism of the Freyarchaea
   role: MSc Internship, Uppsala University
   duration: January 2018 &mdash; Present
-  url: http://www.ettemalab.org/fabian-van-beveren/
+  # url: http://www.ettemalab.org/fabian-van-beveren/
   description: Supervisors&#58; Laura Eme, Jonathan Lombard &amp; Thijs J.G. Ettema
   
 # MSc Thesis
@@ -15,7 +15,7 @@
   description: Supervisors&#58; Jasper R.L. Depotter &amp; Michael F. Seidl
   
 #BSc Internship
-- project: Experimental evolution during nutrient depreviation in <i>E. coli</i>
+- project: Experimental evolution during starvation in <i>E. coli</i>
   role: BSc Thesis, Leiden University
   duration: March &mdash; July 2014
   description: Supervisor&#58; Daniel E. Rozen
